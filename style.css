@@ -1,0 +1,17 @@
+.ethiopia-header { background: linear-gradient(to right, #078930, #FCD116, #E8112D); padding: 20px; text-align: center; color: white; font-family: Arial, sans-serif; } .ethiopia-header h1 { margin: 0; font-size: 32px; font-weight: bold; }
+.image-row { 
+  
+  gap: 20px; 
+}
+
+.image-row img {
+  width: 50%; 
+  max-width: 1050px; 
+}
+
+
+.center-image { 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+}
